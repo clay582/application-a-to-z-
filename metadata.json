@@ -1,0 +1,6 @@
+{
+  "name": "M3AK",
+  "description": "M3AK — Moroccan smart budgeting and personal finance assistant (فلوسك تحت السيطرة)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
